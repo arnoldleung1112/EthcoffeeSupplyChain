@@ -11,19 +11,19 @@ node v11.1.0
 
 ## Testnet (Rinkeby) deployed contract address:
 FarmerRole deploy TX... 0xa52fa074f463c397b5a9d4388462133c366eb7e4779da935521ce92f51f6125e
-FarmerRole: 0x25b7123be00ef10e3319c0dcc058bfa2b24014f9
+FarmerRole contract address: 0x25b7123be00ef10e3319c0dcc058bfa2b24014f9
 
 DistributorRole deploy TX...0xa0340e2267a5eccbed80bf2d709df879e7dc6b688e0d85af86c555a8abec4416
-DistributorRole: 0x292f783c22f950999a3c5e0f6792621d0ed5d8f3
+DistributorRole contract address: 0x292f783c22f950999a3c5e0f6792621d0ed5d8f3
 
 RetailerRole deploy TX... 0xd810cb5e409a5ec97ef8dbd3b8b5e80f9a024cb7dabebdefd94dce6b9a554259
-RetailerRole: 0xec59f02c43430cacf73acb15bc78dcc1d86aee1b
+RetailerRole contract address: 0xec59f02c43430cacf73acb15bc78dcc1d86aee1b
 
 ConsumerRole deploy TX... 0x256a5225ff51806b99e25193cbc2174d33d64fedd5256afe9a53078a9c8f92e5
-ConsumerRole: 0x1a44a21b7f68f5a2f63269f245965bdbc6acb1a2
+ConsumerRole contract address: 0x1a44a21b7f68f5a2f63269f245965bdbc6acb1a2
 
 SupplyChain deploy TX... 0x74b6d4c5d693f42ee384810abae42b3abb3a6983e5a87089997fc8555ba06301
-SupplyChain: 0x42d8a11df30900cec826550abc66e017833833ba
+SupplyChain contract address: 0x42d8a11df30900cec826550abc66e017833833ba
 
 ## transaction performed on Testnet (rinkeby)
 Harvested - 0x30c6ccb83fcf2d266957ae47d549376d31dbf83c89d0d319d7e8fa38359a7002
