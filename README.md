@@ -54,13 +54,12 @@ A step by step series of examples that tell you have to get a development env ru
 Clone this repository:
 
 ```
-git clone https://github.com/udacity/nd1309/tree/master/course-5/project-6
+git clone https://github.com/arnoldleung1112/EthcoffeeSupplyChain.git
 ```
 
-Change directory to ```project-6``` folder and install all requisite npm packages (as listed in ```package.json```):
+Change directory to ```EthcoffeeSupplyChain``` folder and install all requisite npm packages (as listed in ```package.json```):
 
 ```
-cd project-6
 npm install
 ```
 
@@ -128,4 +127,4 @@ See also the list of [contributors](https://github.com/your/project/contributors
 * Solidity
 * Ganache-cli
 * Truffle
-* IPFS
+
